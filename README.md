@@ -19,4 +19,4 @@ A COBOL app that counts down remaining months in the year while it tracks passed
 6. View SYSOUT to see successfully run COBOL program.
 
 ## Pics or it didn't happen.
-![Alt text](/screenshots/MONTHDWN.gif ?raw=true "Method Gif")
+![Alt text](/screenshots/MONTHDWN.gif?raw=true "Method Gif")
