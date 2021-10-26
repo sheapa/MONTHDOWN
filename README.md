@@ -6,7 +6,7 @@ A COBOL app that counts down remaining months in the year while it tracks passed
 * TSO/ISPF
 * JCL
 * COBOL
-* SDF
+* SDSF
 * pw3270
 * z/OS
 
@@ -14,7 +14,7 @@ A COBOL app that counts down remaining months in the year while it tracks passed
 1. Write COBOL program using TSO/ISPF
 2. Write JCL to compile and run program.
 3. Compile program.
-4. Debug program using SDF. Obtain zero return code.
+4. Debug program using SDSF. Obtain zero return code.
 5. After zero return code compile, run program with JCL.
 6. View SYSOUT to see successfully run COBOL program.
 
